@@ -20,7 +20,14 @@ HTML Tag Checker is a web-based tool that analyzes HTML code and detects structu
 app.py – Flask backend  
 index.html – User interface  
 styles.css – Styling  
-main.js – Validation logic  
+main.js – Validation logic 
+requirements.txt
+
+## 📸 Project Preview
+
+### HTML Tag Checker Interface
+
+![HTML Tag Checker UI](Html-Tag-Checker.png)
 
 ## ▶ How to Run
 
